@@ -1,0 +1,16 @@
+Main fields:
+-ID
+-Summary
+-Steps to reproduce
+-Actual result
+-Expected result
+-Severity/Priority
+
+Additional fields:
+-Environment
+-Project
+-Version
+-Status
+-Author
+-Assigned to
+-Attachment
