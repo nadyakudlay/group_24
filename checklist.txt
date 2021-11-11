@@ -1,0 +1,7 @@
+Checklist structure:
+-Build
+-Environment
+-Author
+-Checking
+-Result(Status)
+-Link to the bug
